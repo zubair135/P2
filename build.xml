@@ -1,0 +1,6 @@
+<project name = "myProject" default = "complete">
+<target name = "complete">
+<javac srcdir = "." destdir = "."/>
+</target>
+
+</project>
